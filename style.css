@@ -29,7 +29,7 @@ body {
   font-family: 'Roboto', sans-serif;
   display: grid;
   grid-template-columns: 275px auto;
-  grid-template-rows: repeat(auto);
+  grid-template-rows: 200px auto;
 }
 
 /* HEADER */
