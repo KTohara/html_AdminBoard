@@ -264,6 +264,7 @@ body {
   justify-content: flex-end;
   gap: 1rem;
   color: var(--primary-dark);
+  cursor: pointer;
 }
 
 /* MAIN - announcements */
@@ -412,5 +413,10 @@ body {
 
   .header-top-right {
     min-width: 95%;
+  }
+
+  .btn-container button {
+    width: 80px;
+    height: 30px;
   }
 }
